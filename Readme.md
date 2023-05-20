@@ -11,9 +11,9 @@
 
 1. Start with quick setting with 'Japanese Game'.
 ![Quick Setup](https://i.imgur.com/uVyXqgE.png)
-2. Choose the game dialogue font color type, or select the default and you can choose the font color later.
+- Choose the game dialogue font color type, or select the default and you can choose the font color later.
 ![pick the game dialogue font color](https://imgur.com/DnTiQ1T.png)
-3.Setting OCR Area
+-.Setting OCR Area
 ![OCR area setting](https://imgur.com/F85fKo8.png)
 ![OCR area setting](https://i.imgur.com/gXPx1Er.png)
  - click close to end the quick setting.
