@@ -49,4 +49,4 @@ Tip:
 ![process monitoring](https://i.imgur.com/UqeusNy.png)
 3. If you are still having trouble, you can change the OCR engine to a different one under the OCR settings.
 
-Remember, this is an open-source tool that is continually being updated. Please report any issues or suggestions to the developers via the GitHub page. This tool is a great way to get real-time translations for games or other applications that do not have built-in translations.
+>Remember, this is an open-source tool that is continually being updated. Please report any issues or suggestions to the developers via the GitHub page. This tool is a great way to get real-time translations for games or other applications that do not have built-in translations.
