@@ -1,4 +1,5 @@
 # MORT Software Guide
+"This is a draft tutorial, and the details will be added later. If you have any questions, please feel free to contact me."
 
 ## Downloading and Installing the Software
 1. Go to the MORT project page on GitHub: [GitHub - killkimno/MORT](https://github.com/killkimno/MORT)
@@ -19,11 +20,15 @@
  - click close
 4. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
 ![translate button](https://i.imgur.com/GMLVadY.png)
+![done](https://i.imgur.com/UO89ECV.jpg)
 
  
 Tip:
 - You may have to adjust your game dialogue opacity to 100% for better OCR result.
 - You can setting the Text to speech by toggling the 'TTS' option in the settings.
+
+## Pick Dialogue font color for Better result
+![Dialogue color](https://i.imgur.com/h2xJk0K.jpg)
 
 ## Using with DeepL
 1. If you prefer to use DeepL for translation, ensure that the status is 'available'.
