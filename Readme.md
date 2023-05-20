@@ -3,9 +3,9 @@
 ![MORT](https://i.imgur.com/Xrh72F2.png)
 ## Downloading and Installing the Software
 1. Go to the MORT project page on GitHub: [GitHub - killkimno/MORT](https://github.com/killkimno/MORT)
-2. Navigate to the '[Releases](https://github.com/killkimno/MORT/releases)' page and download the latest release.
+2. Navigate to the [Releases](https://github.com/killkimno/MORT/releases) page and download the latest release.
 ![GitHub Release Page](https://i.imgur.com/sPGjV3e.png)
-3. Once downloaded, extract the files and run the 'MORT.exe' file.
+3. Once downloaded, extract the files and run the `MORT.exe` file.
 
 ## Setting Up the Software
 
