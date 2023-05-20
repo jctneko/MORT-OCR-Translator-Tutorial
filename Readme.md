@@ -1,5 +1,5 @@
 # MORT Software Guide
-"This is a draft tutorial, and the details will be added later. If you have any questions, please feel free to contact me."
+>This is a draft tutorial, and the details will be added later. If you have any questions, please feel free to contact me.
 
 ## Downloading and Installing the Software
 1. Go to the MORT project page on GitHub: [GitHub - killkimno/MORT](https://github.com/killkimno/MORT)
