@@ -18,6 +18,7 @@
 ![close](https://i.imgur.com/hFFDDP5.png)
  - click close
 4. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
+![translate button](https://i.imgur.com/GMLVadY.png)
 
  
 Tip:
