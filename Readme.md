@@ -45,7 +45,7 @@ Tip:
 
 ## Troubleshooting
 1. Check the [System Requirement](https://github.com/killkimno/MORT#system-requirement)
-2. In OCR language selection does not have Japanese option? 
+2. Does the OCR language selection not have a Japanese option?? 
 - to use Windows OCR, you'll need to install the Japanese language pack in your Windows operating system settings.
 ![windows japanese language pack](https://i.imgur.com/DlqDD88.png)
 [youtube: install the japanese language pack in windows](https://www.youtube.com/watch?v=Iq8YERqmRbg)
