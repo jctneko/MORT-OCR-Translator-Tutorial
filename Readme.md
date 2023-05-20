@@ -1,4 +1,8 @@
-# Guide for "MORT" real-time OCR translator for any game.
+# Guide for `"MORT"` 
+> ## Real-time OCR translator for any game.
+
+
+
 >This is a draft tutorial, and the details will be added later. If you have any questions, please feel free to contact me.
 ![MORT](https://i.imgur.com/Xrh72F2.png)
 ## Downloading and Installing the Software
