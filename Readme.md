@@ -45,8 +45,13 @@ Tip:
 
 ## Troubleshooting
 1. Check the [System Requirement](https://github.com/killkimno/MORT#system-requirement)
-2. If MORT is not capturing the text, check the settings and ensure the software is set to your specific browser.
+2. In OCR language selection does not have Japanese option? 
+- to use Windows OCR, you'll need to install the Japanese language pack in your Windows operating system settings.
+![windows japanese language pack](https://i.imgur.com/DlqDD88.png)
+[youtube: install the japanese language pack in windows](https://www.youtube.com/watch?v=Iq8YERqmRbg)
+
+3. If MORT is not capturing the text, check the settings and ensure the software is set to your specific browser.
 ![process monitoring](https://i.imgur.com/UqeusNy.png)
-3. If you are still having trouble, you can change the OCR engine to a different one under the OCR settings.
+4. If you are still having trouble, you can change the OCR engine to a different one under the OCR settings.
 
 >Remember, this is an open-source tool that is continually being updated. Please report any issues or suggestions to the developers via the GitHub page. This tool is a great way to get real-time translations for games or other applications that do not have built-in translations.
