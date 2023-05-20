@@ -13,10 +13,10 @@
 ![Quick Setup](https://i.imgur.com/uVyXqgE.png)
 - Choose the game dialogue font color type, or select the default and you can choose the font color later.
 ![pick the game dialogue font color](https://imgur.com/DnTiQ1T.png)
--.Setting OCR Area
+- Setting OCR Area
 ![OCR area setting](https://imgur.com/F85fKo8.png)
 ![OCR area setting](https://i.imgur.com/gXPx1Er.png)
- - click close to end the quick setting.
+- click close to end the quick setting.
 ![close](https://i.imgur.com/hFFDDP5.png)
 
 4. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
