@@ -23,7 +23,7 @@
 - click close to end the quick setting.
 ![close](https://i.imgur.com/hFFDDP5.png)
 
-4. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
+2. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
    
 ![translate button](https://i.imgur.com/GMLVadY.png)
 ![done](https://i.imgur.com/UO89ECV.jpg)
