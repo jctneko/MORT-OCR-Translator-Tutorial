@@ -16,8 +16,9 @@
 3.Setting OCR Area
 ![OCR area setting](https://imgur.com/F85fKo8.png)
 ![OCR area setting](https://i.imgur.com/gXPx1Er.png)
+ - click close to end the quick setting.
 ![close](https://i.imgur.com/hFFDDP5.png)
- - click close
+
 4. Done! After the quick setup just click 'Translate' button, the software is fully automatic and captures text in real-time.
    
 ![translate button](https://i.imgur.com/GMLVadY.png)
