@@ -30,6 +30,7 @@
 
  
 > Tip:
+>  - The program defaults to use `Windows OCR` to recognize the screen, so you need to have the corresponding language pack installed on your Windows. If you don't know how to do it, please refer to [Troubleshooting](https://github.com/jctneko/MORT-OCR-Translator-Tutorial#troubleshooting).
 >  - You may have to adjust your game dialogue opacity to 100% for better OCR result.
 >  - You can setting the Text to speech by toggling the 'TTS' option in the settings.
 
@@ -57,6 +58,7 @@
 - to use Windows OCR, you'll need to install the Japanese language pack in your Windows operating system settings.
 
     ![windows japanese language pack](https://i.imgur.com/DlqDD88.png)
+
     [youtube: install the japanese language pack in windows](https://www.youtube.com/watch?v=Iq8YERqmRbg)
 
 3. If MORT is not capturing the text, check the settings and ensure the software is set to your specific browser.
