@@ -29,12 +29,20 @@
 ![done](https://i.imgur.com/UO89ECV.jpg)
 
  
-Tip:
-- You may have to adjust your game dialogue opacity to 100% for better OCR result.
-- You can setting the Text to speech by toggling the 'TTS' option in the settings.
+> Tip:
+>  - You may have to adjust your game dialogue opacity to 100% for better OCR result.
+>  - You can setting the Text to speech by toggling the 'TTS' option in the settings.
 
-## Pick Dialogue font color for Better result
-![Dialogue color](https://i.imgur.com/h2xJk0K.jpg)
+## Image Adjust setting for ORC
+ Adjusting the image before OCR for better result.
+
+ Generally, the default OCR works quite well. However, if the OCR results are not satisfactory, you can try the options here to improve the performance.
+
+- adjust by thresehold
+![Dialogue thresehold adjust](https://i.imgur.com/cOCZpmp.jpg)
+
+- adjust by color 
+![Dialogue color adjust](https://i.imgur.com/h2xJk0K.jpg)
 
 ## Using with DeepL
 1. If you prefer to use DeepL for translation, ensure that the status is 'available'.
@@ -47,8 +55,9 @@ Tip:
 1. Check the [System Requirement](https://github.com/killkimno/MORT#system-requirement)
 2. Does the OCR language selection not have a Japanese option?? 
 - to use Windows OCR, you'll need to install the Japanese language pack in your Windows operating system settings.
-![windows japanese language pack](https://i.imgur.com/DlqDD88.png)
-[youtube: install the japanese language pack in windows](https://www.youtube.com/watch?v=Iq8YERqmRbg)
+
+    ![windows japanese language pack](https://i.imgur.com/DlqDD88.png)
+    [youtube: install the japanese language pack in windows](https://www.youtube.com/watch?v=Iq8YERqmRbg)
 
 3. If MORT is not capturing the text, check the settings and ensure the software is set to your specific browser.
 ![process monitoring](https://i.imgur.com/UqeusNy.png)
